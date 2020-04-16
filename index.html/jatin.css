@@ -1,0 +1,88 @@
+span#body {
+    padding: 20px;
+    background-color: ; 
+    font-style: "verdana" , "gill sans";
+}
+
+.header {
+    background-color: purple;
+    padding: 20px;
+}
+
+h1 {
+    display: inline;
+    padding: 10px;
+    color: black;
+}
+
+h2 {
+    background-color: green;
+    color: blue;
+    padding: 3px;
+    padding-left: 10px;
+    border: 1px solid black;
+}
+
+h3 {
+    padding: 10px 40px 0 40px;
+    margin-bottom: 5px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+th {
+    padding: 2px 15px 2px 15px;
+    text-align: right;
+}
+
+td {
+    padding: 2px 15px 2px 15px;
+}
+
+table {
+    margin: 0 30px 0 30px;
+}
+
+a {
+    color: #ffffff;
+}
+
+hr {
+    width:60;
+    color:red;
+}
+
+.info {
+    display: inline-block;
+    padding: 10px;
+    color: black;
+    border-radius: 10px;
+    border-color: green;
+    border: 2px solid black;
+}
+
+.left-align {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.information {
+    padding: 10px 40px 10px 40px;
+}
+
+.extraPadding {
+    margin: 0 20px 0 20px;
+}
+
+.information2 {
+    margin: 0 0 0 70px; 
+    color: black;
+    background: purple;
+    border: 20px solid grey;
+}
